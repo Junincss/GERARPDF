@@ -34,8 +34,8 @@ src="https://www.alvoarlacteos.com.br/wp-content/uploads/2022/04/Landing-Page-De
 alt="logo.alvoarLácteos"
 style="width: 10rem;"
 />
-<h4>TERMO DE RESPONSABILIZAÇÃO PELA GUARDA E USO DE EQUIPAMENTO DE
-TRABALHO</h4>
+<h3>TERMO DE RESPONSABILIZAÇÃO PELA GUARDA E USO DE EQUIPAMENTO DE
+TRABALHO</h3>
 
 <p style="text-align: justify;"> A <strong>ALVOAR LACTEOS NORDESTE S/A</strong>, nova denominação de BETÂNIA LÁCTEOS S/A, pessoa jurídica de direito privado, com
 matriz sediada na Rua Carlos Câmara, 1454, Jardim América, CEP: 60.425-810, Fortaleza – CE, inscrito no
