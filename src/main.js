@@ -1,5 +1,5 @@
 const date = new Date();
-const day = date.getDate() + 7;
+const day = date.getDate();
 const month = date.getMonth();
 const monthYear = [
   "Janeiro",
@@ -27,8 +27,6 @@ const objeto = {
   imei: imeivalidado,
   modelodis: modeloin,
 };
-
-alert(objeto.modelo);
 const main = `<img
 src="https://www.alvoarlacteos.com.br/wp-content/uploads/2022/04/Landing-Page-Desktop.png"
 alt="logo.alvoarLácteos"
